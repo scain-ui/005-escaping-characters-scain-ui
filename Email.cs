@@ -6,3 +6,4 @@ public class Email
     "i will cherish it \'forever\'.\n\n" +
     "Samuel Cain :\\";
 }
+
